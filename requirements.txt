@@ -4,3 +4,4 @@ google-generativeai==0.7.2
 groq==0.9.0
 faiss-cpu
 numpy==1.26.4
+gunicorn==21.2.0
