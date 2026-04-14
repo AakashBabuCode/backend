@@ -2,5 +2,5 @@ flask==3.0.0
 flask-cors==4.0.0
 google-generativeai==0.7.2
 groq==0.9.0
-faiss-cpu==1.8.0
+faiss-cpu
 numpy==1.26.4
